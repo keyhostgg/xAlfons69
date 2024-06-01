@@ -11,4 +11,4 @@
 
 ![snake gif](https://github.com/xAlfons69/xAlfons69/blob/output/github-contribution-grid-snake.gif)
 
-© xAlfons69
+© KeyHostGG
